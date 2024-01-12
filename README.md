@@ -84,19 +84,19 @@ echo $var;
 ```
 
 ### CodeWars
-* https://www.codewars.com/kata/534ea96ebb17181947000ada
-* https://www.codewars.com/kata/5552101f47fc5178b1000050
-* https://www.codewars.com/kata/52988f3f7edba9839c00037d
-* https://www.codewars.com/kata/5506b230a11c0aeab3000c1f
-* https://www.codewars.com/kata/57bf599f102a39bb1e000ae5
-* https://www.codewars.com/kata/5901f361927288d961000013
-* https://www.codewars.com/kata/546f922b54af40e1e90001da
-* https://www.codewars.com/kata/5679aa472b8f57fb8c000047
-* https://www.codewars.com/kata/57a2013acf1fa5bfc4000921
-* https://www.codewars.com/kata/5a995c2aba1bb57f660001fd
-* https://www.codewars.com/kata/57ed30dde7728215300005fa
-* https://www.codewars.com/kata/582746fa14b3892727000c4f
-* https://www.codewars.com/kata/5b39e3772ae7545f650000fc
+1. https://www.codewars.com/kata/534ea96ebb17181947000ada
+2. https://www.codewars.com/kata/5552101f47fc5178b1000050
+3. https://www.codewars.com/kata/52988f3f7edba9839c00037d
+4. https://www.codewars.com/kata/5506b230a11c0aeab3000c1f
+5. https://www.codewars.com/kata/57bf599f102a39bb1e000ae5
+6. https://www.codewars.com/kata/5901f361927288d961000013
+7. https://www.codewars.com/kata/546f922b54af40e1e90001da
+8. https://www.codewars.com/kata/5679aa472b8f57fb8c000047
+9. https://www.codewars.com/kata/57a2013acf1fa5bfc4000921
+10. https://www.codewars.com/kata/5a995c2aba1bb57f660001fd
+11. https://www.codewars.com/kata/57ed30dde7728215300005fa
+12. https://www.codewars.com/kata/582746fa14b3892727000c4f
+13. https://www.codewars.com/kata/5b39e3772ae7545f650000fc
 
 
 
