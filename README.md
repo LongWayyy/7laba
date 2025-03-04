@@ -504,7 +504,7 @@ const smtpConfig = {
   secure: false, // true для SSL, false для других
   auth: {
     user: 'khoroshko12@mail.ru',
-    pass: 'J58jAC5MDSLFji4rZJMq',
+    pass: 'password',
   },
 };
 
